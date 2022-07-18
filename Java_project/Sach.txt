@@ -1,0 +1,4 @@
+1$Toan cao cap$Giaoduc$40$20
+2$Vatly$Giaoduc$50$49
+3$Quan tri mang$Khoahoccongnghe$50$50
+4$Ky thuat truyen tin$Khoahoccongnghe$50$22
